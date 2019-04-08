@@ -23,6 +23,7 @@
   git clone https://github.com/VipulOswall/calculator
   ```
   Or by directly downloading it.
+  There is come code to be fixed so this progam won't run
 
 ### Instructions
 
